@@ -1,1 +1,1 @@
-# F1-Images-Downloader
+# F1 Posters Downloader
